@@ -1,0 +1,14 @@
+/* CSS Document */
+body {
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+  background-color: darkgray;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+}
+.nav-bar {
+	border: solid thin;
+}
